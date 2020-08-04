@@ -9,6 +9,10 @@ Using the most current dev techs.
 - 🚀 [Typescipt](https://www.typescriptlang.org/)
 - 🚀 [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
+
+## 🖼 Layout
+I'm currently working on...
+
 ## 🤔 How to use
 First of all you need to have npm or yarn installed on your computer. Then all you need to do is clone the repository and run on your terminal npm i if you are using npm, or just yarn if you are using yarn.
 
